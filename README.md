@@ -73,7 +73,7 @@ O projeto consiste nos seguintes componentes principais:
    - Exibe os valores no feed **`FelipeMen/feeds/humidity`**.
    - Permite visualização gráfica, criação de alertas e integração com outros sistemas.
 
-     
+Veja como o projeto ficou no simulador [Wokwi](https://wokwi.com/projects/414851046588968961).
 ![image](https://github.com/user-attachments/assets/654b93c2-2a81-4750-b2e7-d1f8984e28fa)
 
 ---
