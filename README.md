@@ -132,3 +132,8 @@ O projeto consiste nos seguintes componentes principais:
 Certifique-se de que as seguintes bibliotecas estão instaladas na Arduino IDE:
 - [Adafruit MQTT Library](https://github.com/adafruit/Adafruit_MQTT_Library)
 - [DHT Sensor Library](https://github.com/adafruit/DHT-sensor-library)
+
+---
+
+## Vídeo Demonstrativo:
+[Link do Vídeo Demonstrativo no Youtube.](https://youtu.be/kiDGf_GEPrg)
